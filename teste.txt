@@ -8,3 +8,4 @@ primeiro_branch
 vai pra main?
 
 funcionalidade a
+funcionalidade b
